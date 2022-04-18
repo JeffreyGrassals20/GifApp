@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddCategory testing environment should show correctly  1`] = `
+<Fragment>
+  <p>
+     
+  </p>
+  <form
+    onSubmit={[Function]}
+  >
+    <h2>
+      Add Category
+    </h2>
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </form>
+</Fragment>
+`;

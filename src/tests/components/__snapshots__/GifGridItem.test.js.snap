@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gif Grid testing Should Veirfy if component shows correctly 1`] = `
+<div
+  className="card animate__animated animate__bounce"
+>
+  <img
+    alt="The Title here"
+  />
+  <p>
+    The Title here
+  </p>
+</div>
+`;
